@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.customButton1 {
+  width: 300px;
+  height: 120px;
+  padding: 7.5px;
+  background-color: #0fcf2c;
+  color: #0e7625;
+  font-weight: bold;
+  border-radius: 50px;
+  border-left-width: 7px;
+  border-bottom-width: 7px;
+  border-right-width: 7px;
+  border-color: #0e7625;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  font-family: sans-serif;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  outline: none;
+}
