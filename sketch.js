@@ -101,7 +101,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[0], 10, 300, windowWidth - 20, windowHeight - 100);
+          text(messages[0], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -120,7 +120,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[0], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[1], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -139,7 +139,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[2], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[2], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -158,7 +158,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[3], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[3], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -177,7 +177,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[4], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[4], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -196,7 +196,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[5], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[5], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -215,7 +215,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[6], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[6], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -234,7 +234,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[7], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[7], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -253,7 +253,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[8], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[8], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -272,7 +272,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[9], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[9], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -291,7 +291,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[10], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[10], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -310,7 +310,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[11], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[11], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -331,7 +331,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[12], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[12], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
@@ -350,7 +350,7 @@ function draw(){
           textFont(customFont);
           textSize(35);
           fill("white");
-          text(messages[13], 10, 50, windowWidth - 20, windowHeight - 100);
+          text(messages[13], 10, 500, windowWidth - 20, windowHeight - 100);
         }
       }
     }
